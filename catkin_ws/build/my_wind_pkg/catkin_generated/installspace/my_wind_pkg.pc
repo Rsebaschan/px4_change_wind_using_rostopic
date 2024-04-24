@@ -1,0 +1,8 @@
+prefix=/home/hmcl/catkin_ws/install
+
+Name: my_wind_pkg
+Description: Description of my_wind_pkg
+Version: 0.0.0
+Cflags: -I${prefix}/include
+Libs: -L${prefix}/lib -lmy_wind_pkg
+Requires: gazebo_msgs gazebo_ros geometry_msgs roscpp rospy std_msgs

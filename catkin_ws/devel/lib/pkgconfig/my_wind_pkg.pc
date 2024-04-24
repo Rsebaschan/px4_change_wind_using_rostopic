@@ -1,0 +1,1 @@
+/home/hmcl/catkin_ws/devel/.private/my_wind_pkg/lib/pkgconfig/my_wind_pkg.pc

@@ -1,0 +1,4 @@
+Symlinking /home/hmcl/catkin_ws/devel/share/my_wind_pkg/cmake/my_wind_pkgConfig.cmake
+Symlinking /home/hmcl/catkin_ws/devel/share/my_wind_pkg/cmake/my_wind_pkgConfig-version.cmake
+Symlinking /home/hmcl/catkin_ws/devel/lib/pkgconfig/my_wind_pkg.pc
+Symlinking /home/hmcl/catkin_ws/devel/lib/my_wind_pkg/ros_wind_pub
